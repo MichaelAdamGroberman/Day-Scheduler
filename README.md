@@ -17,7 +17,7 @@ The hour alloted to each slot will change color depeneding on the condiiton of t
 
 ![Deployed Page Screenshot](./assets/Work-Day-Scheduler.png)
 
-[Deployed GitPage](https://github.com/MichaelAdamGroberman/Day-Scheduler)
+[Deployed GitPage](https://michaeladamgroberman.github.io/Day-Scheduler/)
 
 ## Day Scheduler Comments
 * picked my CSS frameworks and scripts that will be used for this assignment 
